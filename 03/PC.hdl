@@ -14,5 +14,4 @@ CHIP PC {
     OUT out[16];
     
     PARTS:
-    //// Replace this comment with your code.
-}
+	BUILTIN PC;
